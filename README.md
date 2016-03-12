@@ -6,3 +6,9 @@
 
 ### 目的
 希望能把我在项目实践中遇见到的问题，记录下来。
+也希望看到这个repo的人可以提供一些建议。
+
+
+### 资料
+
+* [React.js Best Practices for 2016](https://blog.risingstack.com/react-js-best-practices-for-2016/)
