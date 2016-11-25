@@ -13,6 +13,7 @@
 2. 组件必须返回的是唯一一个元素
 3. 不要修改prop [React props are read only](https://facebook.github.io/react/docs/components-and-props.html#props-are-read-only)
 4. 不要直接修改State
+5. Don't using indexes for `Keys` if the items can reorder
 
 ### 资料
 
