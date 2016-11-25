@@ -8,6 +8,11 @@
 希望能把我在项目实践中遇见到的问题，记录下来。
 也希望看到这个repo的人可以提供一些建议。
 
+### 注意
+1. 组件名首字符必须是大写
+2. 组件必须返回的是唯一一个元素
+3. 不要修改prop [React props are read only](https://facebook.github.io/react/docs/components-and-props.html#props-are-read-only)
+4. 不要直接修改State
 
 ### 资料
 
