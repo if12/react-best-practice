@@ -15,6 +15,8 @@
 4. 不要直接修改State
 5. Don't using indexes for `Keys` if the items can reorder
 6. If something can be derived from eithor props or state, it probably shouldn't be in the state.
+7. Some components don't know their children ahead of time, such as Sidebar and Popup, we recommend that such components use 
+the special children to pass children element directly into their output.
 
 ### 资料
 
