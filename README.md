@@ -17,6 +17,7 @@
 6. If something can be derived from eithor props or state, it probably shouldn't be in the state.
 7. Some components don't know their children ahead of time, such as Sidebar and Popup, we recommend that such components use 
 the special children to pass children element directly into their output.
+8. Using Dot Notation for JSX Type: it's convenient if you have a single module that exports many React components
 
 ### 资料
 
