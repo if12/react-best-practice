@@ -24,3 +24,4 @@ the special children to pass children element directly into their output.
 * [React.js Best Practices for 2016](https://blog.risingstack.com/react-js-best-practices-for-2016/)
 * [React Doc](https://facebook.github.io/react/)
 * [Best Practices for Component State in React.js](http://brewhouse.io/blog/2015/03/24/best-practices-for-component-state-in-reactjs.html)
+* [React Pattern](http://reactpatterns.com/)
