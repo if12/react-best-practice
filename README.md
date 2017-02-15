@@ -5,13 +5,12 @@
 忽悠了。
 
 ### 目的
-希望能把我在项目实践中遇见到的问题，记录下来。
-也希望看到这个repo的人可以提供一些建议。
+希望能把我在项目实践中遇见到的问题，记录下来。也希望看到这个repo的人可以提供一些建议。
 
 ### React文档
-1. 组件名首字符必须是大写
+1. [组件名首字符必须是大写](./user-defined-component-must-be-capitalized.md)
 2. 组件必须返回的是唯一一个元素
-3. 不要修改prop [React props are read only](https://facebook.github.io/react/docs/components-and-props.html#props-are-read-only)
+3. [不要修改prop](./props-are-read-only.md)
 4. 不要直接修改State
 5. Don't using indexes for `Keys` if the items can reorder
 6. If something can be derived from eithor props or state, it probably shouldn't be in the state.
@@ -23,7 +22,7 @@ the special children to pass children element directly into their output.
 ### 资料
 
 * [React.js Best Practices for 2016](https://blog.risingstack.com/react-js-best-practices-for-2016/)
-* [React Doc](https://facebook.github.io/react/)
+* [React Official Doc](https://facebook.github.io/react/)
 * [Best Practices for Component State in React.js](http://brewhouse.io/blog/2015/03/24/best-practices-for-component-state-in-reactjs.html)
 * [React Pattern](http://reactpatterns.com/)
 * [React 技巧和最佳实践](http://www.jianshu.com/p/90a72128ec76)
