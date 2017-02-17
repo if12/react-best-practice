@@ -16,6 +16,7 @@
 the special children to pass children element directly into their output.
 8. Using Dot Notation for JSX Type: it's convenient if you have a single module that exports many React components
 9. PureComponent, 在你只需要它更新的时候才更新，不过注意的是它是用了浅比较.
+10. [Can I load data in the constructor](https://github.com/facebook/react/issues/9021)
 
 ### 资料
 * [React.js Best Practices for 2016](https://blog.risingstack.com/react-js-best-practices-for-2016/)
