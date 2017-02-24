@@ -18,6 +18,7 @@ the special children to pass children element directly into their output.
 9. PureComponent, 在你只需要它更新的时候才更新，不过注意的是它是用了浅比较.
 10. [Can I load data in the constructor](https://github.com/facebook/react/issues/9021)
 11. [DOM is not rendered before componentDidUpdate](https://github.com/facebook/react/issues/9033) 了解componentDidUpdate
+12. bind方法都在Component constructor
 
 ### 资料
 * [React.js Best Practices for 2016](https://blog.risingstack.com/react-js-best-practices-for-2016/)
