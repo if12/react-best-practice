@@ -9,18 +9,18 @@ repo to give me some advices.
 
 ### Tips
 
-1. [User-defined Component Must Be capitalized](./details/user-defined-component-must-be-capitalized.md)
-2. [Component Return Only One Child](./details/component-return-only-one-child.md)
-3. [Don't **Modify** Props](./details/props-are-read-only.md)
-4. Don't Modify State directly
-5. Don't using indexes for **Keys** if the items can reorder
-6. If something can be derived from eithor props or state, it probably shouldn't be in the state.
-7. [props.children Use Case](./details/props-children.md)
-8. [To export more React Component](./details/export-more-components.md)
-9. [Using PureComponent](./details/pure-component.md)
-10. [Can I load data in the constructor](https://github.com/facebook/react/issues/9021)
-11. [DOM is not rendered before componentDidUpdate](https://github.com/facebook/react/issues/9033)
-12. bind function in Component constructor
+* [User-defined Component Must Be capitalized](./details/user-defined-component-must-be-capitalized.md)
+* [Component Return Only One Child](./details/component-return-only-one-child.md)
+* [Don't **Modify** Props](./details/props-are-read-only.md)
+* Don't Modify State directly
+* Don't using indexes for **Keys** if the items can reorder
+* If something can be derived from eithor props or state, it probably shouldn't be in the state.
+* [props.children Use Case](./details/props-children.md)
+* [To export more React Component](./details/export-more-components.md)
+* [Using PureComponent](./details/pure-component.md)
+* [Can I load data in the constructor](https://github.com/facebook/react/issues/9021)
+* [DOM is not rendered before componentDidUpdate](https://github.com/facebook/react/issues/9033)
+* bind function in Component constructor
 
 
 ### Reference
@@ -28,5 +28,6 @@ repo to give me some advices.
 * [React.js Best Practices for 2016](https://blog.risingstack.com/react-js-best-practices-for-2016/)
 * [React Official Doc](https://facebook.github.io/react/)
 * [Best Practices for Component State in React.js](http://brewhouse.io/blog/2015/03/24/best-practices-for-component-state-in-reactjs.html)
+* [Ryan Florence's Compound Components](https://www.youtube.com/watch?v=hEGg-3pIHlE)
 * [React Pattern](http://reactpatterns.com/)
 * [React 技巧和最佳实践](http://www.jianshu.com/p/90a72128ec76)
