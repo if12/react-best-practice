@@ -21,6 +21,7 @@ repo to give me some advices.
 * [Can I load data in the constructor](https://github.com/facebook/react/issues/9021)
 * [DOM is not rendered before componentDidUpdate](https://github.com/facebook/react/issues/9033)
 * bind function in Component constructor
+* [React computed property](./details/computed.md)
 
 
 ### Reference

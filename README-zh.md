@@ -20,6 +20,7 @@
 * [我可以在构造方法加载数据吗?](https://github.com/facebook/react/issues/9021)
 * [DOM元素在componentDidUpdate之前是不渲染的](https://github.com/facebook/react/issues/9033)
 * bind方法尽量都放在Component constructor
+* [React与计算属性](./details/computed.md)
 
 ### 资料
 * [React.js Best Practices for 2016](https://blog.risingstack.com/react-js-best-practices-for-2016/)
