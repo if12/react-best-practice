@@ -22,6 +22,7 @@ repo to give me some advices.
 * [DOM is not rendered before componentDidUpdate](https://github.com/facebook/react/issues/9033)
 * bind function in Component constructor
 * [React computed property](./details/computed.md)
+* [white space between inline element](./details/white-space-between-inline-element.md)
 
 
 ### Reference
