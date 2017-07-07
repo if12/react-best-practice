@@ -23,6 +23,7 @@
 * [React与计算属性](./details/computed.md)
 * [行内元素之间空格问题](./details/white-space-between-inline-element.md)
 * [输入框setState值为null](./details/controlled-input-to-null.md)
+* [不要在render函数条件判断时都返回this.props.children](./details/return-children-conditional.md)
 
 ### 资料
 * [React.js Best Practices for 2016](https://blog.risingstack.com/react-js-best-practices-for-2016/)

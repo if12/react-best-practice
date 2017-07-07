@@ -12,18 +12,19 @@ repo to give me some advices.
 * [User-defined Component Must Be capitalized](./details/user-defined-component-must-be-capitalized.md)
 * [Component Return Only One Child](./details/component-return-only-one-child.md)
 * [Don't **Modify** Props](./details/props-are-read-only.md)
-* Don't Modify State directly
+* Don't Modify State Directly
 * Don't using indexes for **Keys** if the items can reorder
 * If something can be derived from eithor props or state, it probably shouldn't be in the state.
 * [props.children Use Case](./details/props-children.md)
-* [To export more React Component](./details/export-more-components.md)
+* [To Export More React Component](./details/export-more-components.md)
 * [Using PureComponent](./details/pure-component.md)
 * [Can I load data in the constructor](https://github.com/facebook/react/issues/9021)
 * [DOM is not rendered before componentDidUpdate](https://github.com/facebook/react/issues/9033)
 * bind function in Component constructor
 * [React computed property](./details/computed.md)
-* [white space between inline element](./details/white-space-between-inline-element.md)
-* [controlled input setState to null](./details/controlled-input-to-null.md)
+* [White space between inline element](./details/white-space-between-inline-element.md)
+* [Controlled input setState to null](./details/controlled-input-to-null.md)
+* [Don't return prop.children conditional in the render function](./details/return-children-conditional.md)
 
 
 ### Reference
