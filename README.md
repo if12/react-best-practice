@@ -25,7 +25,7 @@ repo to give me some advices.
 * [White space between inline element](./details/white-space-between-inline-element.md)
 * [Controlled input setState to null](./details/controlled-input-to-null.md)
 * [Don't return prop.children conditional in the render function](./details/return-children-conditional.md)
-
+* [JSX props shorthand](./details/jsx-props-shorthand.md)
 
 ### Reference
 
