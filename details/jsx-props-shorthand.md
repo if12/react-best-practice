@@ -34,4 +34,4 @@ class Table extends Component {
 }
 ```
 
-参考 [#9115](https://github.com/facebook/react/pull/9115/files#diff-f980151ad39d027fddfc016e4683d40b))
+参考 [#9115](https://github.com/facebook/react/pull/9115/files#diff-f980151ad39d027fddfc016e4683d40b)
