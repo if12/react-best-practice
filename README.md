@@ -27,6 +27,10 @@ repo to give me some advices.
 * [Don't return prop.children conditional in the render function](./details/return-children-conditional.md)
 * [JSX props shorthand](./details/jsx-props-shorthand.md)
 
+### Fiber
+
+Let's see what happened into [Fiber](./details/fiber.md).
+
 ### Reference
 
 * [React.js Best Practices for 2016](https://blog.risingstack.com/react-js-best-practices-for-2016/)

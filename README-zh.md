@@ -26,6 +26,10 @@
 * [不要在render函数条件判断时都返回this.props.children](./details/return-children-conditional.md)
 * [jsx props属性缩写](./details/jsx-props-shorthand.md)
 
+### Fiber
+
+看看[Fiber](./details/fiber.md)内部实现
+
 ### 资料
 * [React.js Best Practices for 2016](https://blog.risingstack.com/react-js-best-practices-for-2016/)
 * [React Official Doc](https://facebook.github.io/react/)
