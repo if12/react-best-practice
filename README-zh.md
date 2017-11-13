@@ -25,6 +25,8 @@
 * [输入框setState值为null](./details/controlled-input-to-null.md)
 * [不要在render函数条件判断时都返回this.props.children](./details/return-children-conditional.md)
 * [jsx props属性缩写](./details/jsx-props-shorthand.md)
+* [不要搞混Controlled和Uncontrolled](./details/dont-mix-up-controlled-and-uncontrolled.md)
+
 
 ### Fiber
 

@@ -26,6 +26,7 @@ repo to give me some advices.
 * [Controlled input setState to null](./details/controlled-input-to-null.md)
 * [Don't return prop.children conditional in the render function](./details/return-children-conditional.md)
 * [JSX props shorthand](./details/jsx-props-shorthand.md)
+* [Don't mix up Controlled and Uncontrolled](./details/dont-mix-up-controlled-and-uncontrolled.md)
 
 ### Fiber
 
