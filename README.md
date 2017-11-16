@@ -28,6 +28,7 @@ repo to give me some advices.
 * [JSX props shorthand](./details/jsx-props-shorthand.md)
 * [Don't mix up Controlled and Uncontrolled](./details/dont-mix-up-controlled-and-uncontrolled.md)
 * [How to Get cross-level ref](./details/cross-level-ref.md)
+* [Input fires unnecessary using Chinese IME](./details/using-chinese-ime)
 
 ### Fiber
 
