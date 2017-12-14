@@ -34,6 +34,10 @@ repo to give me some advices.
 
 Let's see what happened into [Fiber](./details/fiber.md).
 
+### Inspired
+
+* [Show a better warning when accidentally returning from constructor](https://github.com/facebook/react/issues/11381)
+
 ### Reference
 
 * [React.js Best Practices for 2016](https://blog.risingstack.com/react-js-best-practices-for-2016/)

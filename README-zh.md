@@ -32,6 +32,10 @@
 
 看看[Fiber](./details/fiber.md)内部实现
 
+### 受启发
+
+* [当在构造函数不小心return时显示一个更好的警告](https://github.com/facebook/react/issues/11381)
+
 ### 资料
 * [React.js Best Practices for 2016](https://blog.risingstack.com/react-js-best-practices-for-2016/)
 * [React Official Doc](https://facebook.github.io/react/)
