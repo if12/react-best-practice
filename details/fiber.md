@@ -53,3 +53,7 @@ virtual stack frame
 ### [React Fiber初探](http://blog.codingplayboy.com/2017/12/02/react_fiber/)
 
 比较完整得了解下React Fiber
+
+### [Didact Fiber: Incremental reconciliation](https://engineering.hexacta.com/didact-fiber-incremental-reconciliation-b2fe028dcaec)
+
+从零开始学习Fiber，还有对应的[github代码](https://github.com/hexacta/didact)
