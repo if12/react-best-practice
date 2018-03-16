@@ -46,3 +46,4 @@ Let's see what happened into [Fiber](./details/fiber.md).
 * [Ryan Florence's Compound Components](https://www.youtube.com/watch?v=hEGg-3pIHlE)
 * [React Pattern](http://reactpatterns.com/)
 * [React 技巧和最佳实践](http://www.jianshu.com/p/90a72128ec76)
+* [Andrew Clark's tweet](https://twitter.com/acdlite/status/974437383939743746)
