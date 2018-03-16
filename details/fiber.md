@@ -1,6 +1,6 @@
 ## Fiber
 
-写这个是为了追踪Fiber的相关内容
+> 纪录Fiber的相关内容
 
 ### [New Core Algorithm](https://github.com/facebook/react/issues/6170)
 
@@ -15,6 +15,8 @@
 简单了解了下它的原理
 
 ### [Fiber数据结构](https://github.com/facebook/react/blob/v16.1.0/packages/react-reconciler/src/ReactFiber.js#L56-L147)
+
+Fiber的核心
 
 ### [How React Fiber Works](https://www.facebook.com/groups/2003630259862046/permalink/2054053404819731/)
 
@@ -43,3 +45,15 @@ virtual stack frame
 ### [React Fiber Resources](https://github.com/koba04/react-fiber-resources)
 
 别人总结的React Fiber资料
+
+### [All Commits about Fiber](https://github.com/facebook/react/pulls?utf8=%E2%9C%93&q=is%3Amerged%20is%3Apr%20fiber%20)
+
+有关Fiber的提交
+
+### [React Fiber初探](http://blog.codingplayboy.com/2017/12/02/react_fiber/)
+
+比较完整得了解下React Fiber
+
+### [Didact Fiber: Incremental reconciliation](https://engineering.hexacta.com/didact-fiber-incremental-reconciliation-b2fe028dcaec)
+
+从零开始学习Fiber，还有对应的[github代码](https://github.com/hexacta/didact)
