@@ -36,6 +36,7 @@
 
 * [当在构造函数不小心return时显示一个更好的警告](https://github.com/facebook/react/issues/11381)
 * [在访问数组元素之前先检查length](https://github.com/facebook/react/issues/11460)
+* [不用上Object.assign](https://github.com/facebook/react/pull/12510)
 
 ### 资料
 * [React.js Best Practices for 2016](https://blog.risingstack.com/react-js-best-practices-for-2016/)

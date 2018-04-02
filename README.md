@@ -38,6 +38,7 @@ Let's see what happened into [Fiber](./details/fiber.md).
 
 * [Show a better warning when accidentally returning from constructor](https://github.com/facebook/react/issues/11381)
 * [Check .length before accessing characters](https://github.com/facebook/react/issues/11460)
+* [Fix DEV performance regression by avoiding Object.assign on Fibers](https://github.com/facebook/react/pull/12510)
 
 ### Reference
 
